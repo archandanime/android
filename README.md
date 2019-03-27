@@ -1,4 +1,7 @@
 # kirino-boot-animation
-android customization
-Boot animation zip file for Android devices with resolution of 720x1280.
-Usage: copy the zip file to /system/media/ and rename it to bootanimation.zip, then chmod 755.
+Bootanimation of Kirino Kousaka(Oreino- Ore no Imōto)
+Screen resolution 720x1280.
+Usage:
+1. Extract bootanimation-kirino-720x1280.zip from bootanimation-kirino-720x1280.tar.xz
+2. Rename bootanimation-kirino-720x1280.zip to bootanimation.zip
+3. Copy the zip file to /system/media and chmod it 755.
